@@ -28,4 +28,5 @@ git branch -M main
 git push -u origin main
 git add -u
 git commit
-git pushgit clone
+git push
+git clone
