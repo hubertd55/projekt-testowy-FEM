@@ -18,7 +18,7 @@ echo To bedzie rozdzial 1. > Rozdzial1.txt
 echo Rozdzial2 > Rozdzial2.txt
 echo Rozdzial3 > Rozdzial3.txt
 
-git add Rozdzial2.txt Rozdzial3.tx
+git add Rozdzial2.txt Rozdzial3.txt
 
 git add -ugit commit
 git loggit checkout 667a23c
