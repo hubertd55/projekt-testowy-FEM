@@ -26,6 +26,7 @@ git checkout master
 git remote add origin https://github.com/mojlogin/projekt-testowy.git
 git branch -M main
 git push -u origin main
+
 git add -u
 git commit
 git push
